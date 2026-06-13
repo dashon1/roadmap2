@@ -1,0 +1,1 @@
+export { BackgroundGradientAnimation } from './BackgroundGradientAnimation';

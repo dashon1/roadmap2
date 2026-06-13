@@ -1,0 +1,1 @@
+export { SplashCursor } from './SplashCursor';
